@@ -1,2 +1,2 @@
 hello world
-commit vi mode test
+commit vi mode test retry
