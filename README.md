@@ -1,10 +1,12 @@
 ## 팀 소개
 
 <div align='center'>
+  
 | 이지연 | 정명진 | 황주완 |
 | --- | --- | --- |
 | <img src="src/assets/img/jy_profile_img.png" alt="이지연" width="120" /> | <img src="src/assets/img/mj_profile_img.png" alt="정명진" width="120" /> | <img src="src/assets/img/jw_profile_img.png" alt="황주완" width="120" /> |
 | <a href="https://github.com/jiyean99">🔗 [jiyean99]</a> | <a href="https://github.com/jmj010702">🔗 [jmj010702]</a> | <a href="https://github.com/hwangjwan">🔗 [hwangjwan]</a> |
+
 </div>
 
 
